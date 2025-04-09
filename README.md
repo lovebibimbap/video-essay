@@ -1,6 +1,6 @@
-# video-essay
+# Video-Essay
 
-# summary
+# Summary
 
 This video essay looks at how football tactics have evolved over time, focusing on three major systems: the W-M formation, Catenaccio, and Total Football. My main idea is that these aren’t just formations—they’re reflections of how people thought about the game in different eras. I chose this topic because I love football, but I wanted to go deeper than match highlights or player stats. I was curious about how strategies shape what we see on the pitch, and how big ideas like structure, defense, and freedom in play have developed over the decades.
 
@@ -8,10 +8,12 @@ Working in video gave me the chance to really show how these systems work, not j
 
 Throughout the process, I looked at both historical sources and modern commentary. I wanted to place my project in the middle of an ongoing conversation that includes tactical analysis blogs, YouTube breakdowns, and even FIFA’s own historical write-ups. These perspectives helped me understand how tactics don’t just evolve—they respond to culture, rule changes, and individual thinkers like Chapman, Michels, Cruyff, and Guardiola.
 
-One thing that really helped was feedback from the professor and peers. Based on their suggestions, I added background music at the beginning and end of the video to make it more engaging and help set the tone. I also adjusted the size of the images to make them look more consistent throughout, so the visuals felt smoother and more professional. 
+One thing that really helped was feedback from the professor and peers. Based on their suggestions, I added background music at the beginning and end of the video to make it more engaging and help set the tone. I also adjusted the size of the images to make them look more consistent throughout, so the visuals felt smoother and more professional.
+
+Youtube link: https://youtu.be/5X9RG8vJkOk
 
 
-# credit
+# Credit
 
 Assets:
 
